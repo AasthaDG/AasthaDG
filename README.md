@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,40:7B2FBE,100:00D4FF&height=220&section=header&text=Aastha%20Gade&fontSize=65&fontColor=00D4FF&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20BI%20Analyst%20%E2%80%A2%20AI%2FML%20Engineer&descSize=17&descAlignY=58&descColor=C792EA&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,40:7B2FBE,100:00D4FF&height=220&section=header&text=Aastha%20Gade&fontSize=65&fontColor=00D4FF&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20%20%20%E2%80%A2%20AI%2FML%20Engineer&descSize=17&descAlignY=58&descColor=C792EA&animation=twinkling" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AasthaDG&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AasthaDG)
 &nbsp;
