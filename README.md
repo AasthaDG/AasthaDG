@@ -18,10 +18,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║   MS Data Science · University at Buffalo · GPA 3.6 · Dec 2025  ║
-║   Cyient Inc. (Allen TX) · Cyient Ltd. (Pune) · CDF             ║
+║   MS Data Science · University at Buffalo · GPA 3.6 · Dec 2025   ║
+║                  Cyient Inc. (Allen TX)                          ║
 ║   Azure Developer Associate · 2x IEEE Published Author           ║
-║   DFW, TX · Open to Remote & On-site · OPT Active (3 yrs)       ║
+║   DFW, TX · Open to Remote & On-site · OPT Active (3 yrs)        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
